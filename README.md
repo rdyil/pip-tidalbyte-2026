@@ -184,16 +184,6 @@ Motivation isn't a computer-science problem. It's a human one. Every trick in Pi
 - **Body-doubling rooms**: study next to a friend (or Pip) live.
 - **Campus integration**: connect students to their disability resources office and counseling center.
 
-## How Pip meets the judging criteria
-
-| Criterion | Where it shows up |
-|---|---|
-| **Technicality**: how advanced is the code? | A three-model agent with tool calling, self-correction, a guaranteed fallback, JSON validation and repair, reasoning control, a per-student learning loop, syllabus extraction, a labeled eval harness, and a custom design system with synthesized audio |
-| **Ingenuity**: a unique problem? | Diagnosing *why* someone procrastinates (four distinct causes from Temporal Motivation Theory) instead of treating every stall the same, then acting on it and learning what works per person |
-| **Diversity**: interdisciplinary? | Seven fields, each one visibly driving a feature and labeled in the app (table above) |
-| **Applicability**: real impact? | Built from syllabus PDFs and messy, real check-ins; makes ready-to-use first steps, calendar files and reminders; safety routing to 988; accessible for ADHD and dyslexia. ADHD is common among college students, and procrastination affects most of them |
-| **Looks**: can we pitch it? | A memorable character, a story we live ourselves, a polished and consistent UI in light and dark mode, and measured results to back up the claims |
-
 ## Run it
 
 ```bash
